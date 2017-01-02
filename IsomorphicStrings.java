@@ -13,7 +13,6 @@ public class IsomorphicStrings {
                 m.put(sChar, tChar);
             }
             else{
-                System.out.println(m.get(sChar));
                 if(m.get(sChar) != tChar)
                     return false;
             }

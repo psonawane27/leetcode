@@ -20,7 +20,8 @@ public class MinStack {
             min=x;
         }else{
             minStack.push(x-min);
-            if (x<min) min=x;
+            if (x<min) 
+				min=x;
         }
     }
     

@@ -1,6 +1,6 @@
 /*
 http://www.cs.utexas.edu/~moore/best-ideas/mjrty/index.html
-Space complexity: O(N)
+Space complexity: O(1)
 Time Complexity: O(N)
 */
 import java.util.*;

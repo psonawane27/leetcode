@@ -1,3 +1,7 @@
+/*
+Space complexity: O(1)
+Time Complexity: O(N^3)
+*/
 import java.util.*;
 
 public class ThreeSumClosest {

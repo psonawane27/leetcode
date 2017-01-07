@@ -1,3 +1,7 @@
+/*
+Space complexity: O(N)
+Time Complexity: O(kN)
+*/
 import java.util.*;
 
 public class ContainsDuplicateIII {

@@ -1,3 +1,7 @@
+/*
+Space complexity: O(N)
+Time Complexity: O(N)
+*/
 import java.util.*;
 
 public class ContainsDuplicateI {

@@ -1,6 +1,6 @@
 /*
 Space complexity: O(n)
-Time Complexity: O(m+n)
+Time Complexity: max[O(m), O(n)]
 */
 import java.util.*;
 
